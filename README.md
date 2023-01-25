@@ -1,6 +1,6 @@
 # Aplicativo To Do List
 Aplicativo feito de forma autônoma, sendo um dos desafios do curso de React Native da Rocket Seat. No final do texto, há um vídeo
-e algumas imagens, feitos em minha máquina pessoal com o auxílio de um emulador de Android, demonstrando o funcionamnto.
+e algumas imagens, feitos em minha máquina pessoal com o auxílio de um emulador de Android, demonstrando o funcionamento.
 ## Proposta
 O aplicativo serve como uma lista de tarefas a serem feitas, que possui as seguintes funcionalidades:
 * Adicionar uma nova tarefa
